@@ -7,7 +7,7 @@ title: Wu_Qian
 subtitle: 一日看尽长安花
 description: 
 keywords:
-author: WU QIAN
+author: 吴茜
 language: zh-Hans
 timezone:
 
@@ -71,6 +71,15 @@ per_page: 10
 pagination_dir: page
 
 # Extensions
+# RSS订阅
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
