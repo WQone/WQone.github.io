@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Wu_Qian</title>
+  
+  <subtitle>一日看尽长安花</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-10-30T06:44:15.646Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>吴茜</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/10/30/hello-world/"/>
+    <id>http://yoursite.com/2018/10/30/hello-world/</id>
+    <published>2018-10-30T04:35:05.239Z</published>
+    <updated>2018-10-30T06:44:15.646Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to MY DLOG.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="test" scheme="http://yoursite.com/categories/test/"/>
+    
+    
+      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+    
+  </entry>
+  
+</feed>
