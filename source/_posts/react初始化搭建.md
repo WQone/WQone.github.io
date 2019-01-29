@@ -1,8 +1,8 @@
 ---
 title: React 初始化搭建
-categories: learn
+categories: React
 tags:
-  - learn
+  - React
 ---
 
 ## 第一次开始尝试学习 react，集成 React + Dva + Antd + umi 快速搭建一个项目
